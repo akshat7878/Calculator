@@ -1,3 +1,6 @@
+def modulas(num1: int, num2: int) -> int:
+    return num1 % num2
+  
 def power(num1: int, num2: int) -> int:
     return num1 ** num2
   
