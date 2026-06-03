@@ -1,2 +1,2 @@
-def division(num1: int, num2: int) -> int:
+def modulas(num1: int, num2: int) -> int:
     return num1 % num2
